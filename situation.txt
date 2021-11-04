@@ -1,0 +1,19 @@
+
+
+
+Les données à étudier décrivent les résultats comptables de 40 entreprise du Royaume Uni.
+Les données sont disponibles dans le chier ukcomp1.dat. On souhaite prédire le retour sur investissement
+en fonction d'autres données économiques. Les variables fournies sont :
+ inves : retour sur investissement
+ rouldette : rapport du ux de fonds de roulement sur la dette totale
+logvente : log en base 10 du total des ventes
+logactif : log en base 10 du total des actifs
+ actuel : ratio actuel
+ rapide : ratio rapide
+ actxtot : rapport des actifs nets xes sur le total des actifs
+ actbruttot : rapport des actifs bruts sur le total des actifs
+ paie : rapport des paiements
+ roulepassif : rapport du ux de fonds de roulements sur le total du passif à court terme
+ detequi : rapport dette-équité
+ venact : rapport du total des ventes sur le total des actifs
+ invtot : rapport du total des inventaires sur le total des actifs
